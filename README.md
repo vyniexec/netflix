@@ -1,6 +1,6 @@
 # Netflix
 
-![](imagens/netflix-logo.jpg)
+![logo netflix](imagens/netflix-logo.jpg)
 
 [Clique aqui](https://vyniexec.github.io/netflix/) para acessar o site
 
